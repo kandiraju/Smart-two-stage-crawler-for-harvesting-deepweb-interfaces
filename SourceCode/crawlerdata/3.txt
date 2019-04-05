@@ -1,0 +1,10 @@
+http://feeds.feedburner.com/SharedTutorials
+http://www.tutorialspoint.com/java/java_quick_guide.htm
+http://www.tutorialspoint.com/java/java_basic_syntax.htm
+http://www.tutorialspoint.com/java/java_applet_basics.htm
+http://www.tutorialspoint.com/java/java_overview.htm
+http://www.tutorialspoint.com/java/java_exceptions.htm
+http://www.tutorialspoint.com/java/java_object_classes.htm
+http://www.tutorialspoint.com/java/java_environment_setup.htm
+http://www.tutorialspoint.com/java/java_sending_email.htm
+http://www.tutorialspoint.com/java/java_documentation.htm

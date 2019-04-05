@@ -1,0 +1,10 @@
+http://docs.oracle.com/javase/tutorial/information/history.html
+https://blogs.oracle.com/thejavatutorials/
+http://www.oracle.com/technetwork/java/javase/downloads/index.html
+https://docs.oracle.com/javase/tutorial/
+http://www.oracle.com/technetwork/java/javaee/downloads/index.html
+https://docs.oracle.com/javase/8/docs/
+http://docs.oracle.com/javase/tutorial/reallybigindex.html
+http://docs.oracle.com/javase/tutorial/sound/index.html
+https://docs.oracle.com/javase/8/javase-clienttechnologies.htm
+http://www.oracle.com/technetwork/java/javase/downloads/java-se-7-tutorial-2012-02-28-1536013.html

@@ -1,0 +1,10 @@
+http://java.com/en/about/
+http://java.com/en/download/faq/expire_date.xml#redirect
+http://java.com/en/download/faq/develop.xml
+http://java.com/en/download/manual.jsp
+http://java.com/inc/BrowserRedirect1.jsp?locale=en
+http://java.com/en/download/help/
+http://java.com/en/download/support.jsp
+http://java.com/en/download/whatis_java.jsp
+http://bugreport.sun.com/bugreport/contact_migration.jsp
+http://www.oracle.com/html/terms.html

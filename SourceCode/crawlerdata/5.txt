@@ -1,0 +1,10 @@
+http://www.oracle.com/technetwork/articles/java/index.html
+https://community.oracle.com/docs/DOC-910779
+http://www.youtube.com/java
+http://www.oracle.com/technetwork/articles/java/richclient-2266285.html
+http://www.oracle.com/technetwork/java/javase/overview/index.html
+http://twitter.com/java
+http://blogs.oracle.com/java
+http://www.oracle.com/technetwork/java/javase/downloads/index.html
+http://www.oracle.com/technetwork/java/javase/downloads/index-jsp-138363.html
+http://www.oracle.com/technetwork/articles/java/javafx-productivity-2345000.html

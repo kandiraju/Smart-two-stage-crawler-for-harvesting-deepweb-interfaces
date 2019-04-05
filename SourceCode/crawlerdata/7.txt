@@ -1,0 +1,10 @@
+http://www.javatpoint.com/forum.jsp?category=corejava
+http://www.javatpoint.com/package
+http://www.javatpoint.com/RMI
+http://www.javatpoint.com/java-tutorial#
+http://www.javatpoint.com/java-tutorial
+http://www.javatpoint.com/corejava-interview-questions
+http://www.javatpoint.com/forum.jsp?category=jsp
+http://www.javatpoint.com/simple-program-of-java
+http://www.javatpoint.com/javascript-quiz
+http://www.javatpoint.com/history-of-java
